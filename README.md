@@ -20,6 +20,7 @@ A list of civic, neighborhood, and homeowners associations in Delaware
 ### Statewide
 - [State's list of homeowners associations](https://demhra.delaware.gov/registered-communities/)
 - [Information for Homeowners and Associations - State of Delaware](https://attorneygeneral.delaware.gov/fraud/cpu/ombudsperson/hoa/) (not a list)
+- [Wikipedia - List of municipalities in Delaware](https://en.wikipedia.org/wiki/List_of_municipalities_in_Delaware) - Can be used to look up associations
 
 ### New Castle
 
