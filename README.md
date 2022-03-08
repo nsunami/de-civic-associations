@@ -1,5 +1,5 @@
 # de-civic-associations
-A list of civic, neighborhood, and homeowner associations in Delaware
+A list of civic, neighborhood, and homeowners associations in Delaware
 
 
 ## New Castle
