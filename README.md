@@ -9,8 +9,11 @@ A list of civic, neighborhood, and homeowners associations in Delaware
 
 
 ## Sussex
-
-
+- [Baywood HOA](https://www.baywoodhoa.org/)
+- [Bethany Beach Landowners Association](https://bbla.us/)
+- [Lewes Beach Civic Association (LBCA)](https://www.lbcade.org/)
+- [Rehoboth Beach Homeowners' Association](https://www.rbhome.org/)
+- [Swann Keys Civic Association](https://swannkeys.org/)
 
 ## Resources
 
@@ -30,4 +33,4 @@ A list of civic, neighborhood, and homeowners associations in Delaware
 
 ### Sussex
 
-- (*No good resources found)
+- [Gorgetown's list of civic organizations](https://www.georgetowndel.com/civic-organizations.htm)
